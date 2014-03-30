@@ -20,4 +20,11 @@
 
 *  [打开关闭移动光标](openCloseMove.md)
 *  [开始编辑](editor.md)
-*  [vi代码格式化](./format.md)
+*  [移动光标列表](move.md)
+*  [插入](insert.md)
+*  [查找与替换](findReplace.md)
+*  [删除](delete.md)
+*  [粘贴](paste.md)
+*  [屏幕操作](frame.md)
+*  [vi代码格式化](format.md)
+

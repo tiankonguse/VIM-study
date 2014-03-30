@@ -87,6 +87,3 @@ i     Insert text before the cursor .
    * [目录](readme.md)
 
 
-
-
-
