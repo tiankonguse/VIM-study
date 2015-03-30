@@ -1,5 +1,7 @@
 # VIM STUDY
 
+这个项目已经不再更新，迁移到[这里][vim-path]
+
 这个项目目的在于学习 vim.
 
 虽然网上已经有很多关于vim的教程了，可是自己学习还是要记笔记的。
@@ -27,4 +29,7 @@
 *  [粘贴](paste.md)
 *  [屏幕操作](frame.md)
 *  [vi代码格式化](format.md)
+
+
+[vim-path]: https://github.com/tiankonguse/empty/tree/master/vim
 

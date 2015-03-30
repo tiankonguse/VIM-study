@@ -1,5 +1,9 @@
 # vim学习笔记之打开,关闭,移动光标
 
+
+这个项目已经不再更新，迁移到[这里][vim-path]  
+
+
 ## 学习vim第一步:打开关闭。
 
 ### 打开vim
@@ -82,3 +86,4 @@ h代表向左动,j代表向下移动,k代表向上移动,l代表向右移动。
 
 
 
+[vim-path]: https://github.com/tiankonguse/empty/tree/master/vim

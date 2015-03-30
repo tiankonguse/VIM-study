@@ -1,5 +1,8 @@
 # 参考地址
 
+这个项目已经不再更新，迁移到[这里][vim-path]  
+
+
 参考的文章比较多,这里仅仅记录一下,不区分顺序.  
 
 
@@ -8,3 +11,4 @@
 
 
 
+[vim-path]: https://github.com/tiankonguse/empty/tree/master/vim
