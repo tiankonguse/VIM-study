@@ -1,8 +1,5 @@
 # vim学习笔记之开始编辑
 
-这个项目已经不再更新，迁移到[这里][vim-path]  
-
-
 ```text
 /pattern         从光标开始处向文件尾搜索pattern
 ?pattern         从光标开始处向文件首搜索pattern
@@ -20,6 +17,4 @@ N                在反方向上重复上一次搜索命令
    * [目录](readme.md)
 
 
-
-[vim-path]: https://github.com/tiankonguse/empty/tree/master/vim
 

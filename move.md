@@ -1,10 +1,6 @@
 # vim学习笔记之移动光标
 
 
-这个项目已经不再更新，迁移到[这里][vim-path]  
-
-
-
 光标移动的命令有很多,我们需要给他们分成几类,不然一下看到那么多命令,头不晕才怪呢.  
 
 
@@ -190,6 +186,4 @@ ctrl-g  # 查看当前行数
 
 ##links
    * [目录](readme.md)
-
-[vim-path]: https://github.com/tiankonguse/empty/tree/master/vim
 

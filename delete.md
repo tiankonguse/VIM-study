@@ -1,7 +1,5 @@
 # vim学习笔记之删除
 
-这个项目已经不再更新，迁移到[这里][vim-path]
-
 ```text
 x        删除当前光标下的字符
 dw       删除光标之后的单词剩余部分。
@@ -15,4 +13,3 @@ cc       也是删除当前行，然后进入INSERT MODE
 ##links
    * [目录](readme.md)
 
-[vim-path]: https://github.com/tiankonguse/empty/tree/master/vim

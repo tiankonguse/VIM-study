@@ -1,10 +1,6 @@
 #vim学习笔记之启动vim
 
 
-
-这个项目已经不再更新，迁移到[这里][vim-path]  
-
-
 ## 基本操作
 
 最常用的打开vim的方法是以打开文件的方式进入vim的.  
@@ -67,6 +63,4 @@ vim + fileName
 
 
 
-
-[vim-path]: https://github.com/tiankonguse/empty/tree/master/vim
 

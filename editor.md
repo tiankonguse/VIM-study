@@ -1,7 +1,5 @@
 # vim学习笔记之开始编辑
 
-这个项目已经不再更新，迁移到[这里][vim-path]
-
 ## 学习vim之简单编辑。
 
 ### 开始编辑
@@ -88,6 +86,4 @@ i     Insert text before the cursor .
 ##links
    * [目录](readme.md)
 
-
-[vim-path]: https://github.com/tiankonguse/empty/tree/master/vim
 

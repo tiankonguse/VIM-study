@@ -1,8 +1,5 @@
 # vim学习笔记之屏幕操作
 
-这个项目已经不再更新，迁移到[这里][vim-path]  
-
-
 ```text
 c-w c-n  增加frame
 c-w c-c  减少frame
@@ -19,8 +16,5 @@ c-w k 光标移动到上面的frame
 
 ##links
    * [目录](readme.md)
-
-
-[vim-path]: https://github.com/tiankonguse/empty/tree/master/vim
 
 
