@@ -162,6 +162,11 @@ xclip -out
 ##links
    * [目录](readme.md)
 
+## 参考链接
+
+* [vim 粘贴代码格式问题](http://tiankonguse.com/record/record.php?id=606)
+
 
 [jianyungsun-1988855]: http://www.cnblogs.com/jianyungsun/archive/2011/03/19/1988855.html
 [cnblogs-end-2531142]: http://www.cnblogs.com/end/archive/2012/06/01/2531142.html
+
